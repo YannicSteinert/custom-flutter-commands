@@ -1,0 +1,9 @@
+swagger_parser:
+  schema_path: __IN_PATH__
+  output_directory: __OUT_PATH__
+  language: dart
+  root_interface: true
+  squish_clients: false
+  client_postfix: Client
+  freezed: false
+  include_to_json_in_enums: false
