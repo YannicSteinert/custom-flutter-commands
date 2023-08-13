@@ -8,7 +8,7 @@ if "%~1"=="create:help" goto CREATE_HELP
 if "%~1"=="help" goto CREATE_HELP
 if "%~1"=="?" goto CREATE_HELP
 
-echo "Es wurde kein script ausgefuehrt"
+echo "Exit!"
 exit /b
 
 
